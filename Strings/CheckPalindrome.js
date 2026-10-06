@@ -1,4 +1,4 @@
 function checkPalindrome(str) {
     return str === str.split('').reverse().join('');
 }
-console.log(checkPalindrome("hello"));
+console.log(checkPalindrome("madam"));
