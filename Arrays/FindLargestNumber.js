@@ -1,6 +1,5 @@
 function largestNumber(arr) {
     let largest = 0;
-
     for (let num of arr) {
         if (num > largest) {
             largest = num;
